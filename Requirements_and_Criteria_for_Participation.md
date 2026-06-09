@@ -44,4 +44,4 @@ The Mission Committee follows the compliance rules and procedures defined in the
 
 ### 6\. Amendments
 
-This document  may be amended by both (a) a two-thirds vote of the entire committee and (b) the affirmative vote of both Appointed Representatives.  
+This document may be amended by both (a) a two-thirds vote of the entire committee and (b) the affirmative vote of both Appointed Representatives.
