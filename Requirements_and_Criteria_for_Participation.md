@@ -4,7 +4,7 @@ Adopted July 8, 2025
 
 ## Mission Committee Participation Criteria
 
-The Tazama project (the “Project”) has been established as a project of LFC.  The role of the Mission Committee of the Project is to: (a) provide the Project with advice and insight with respect to the charitable purposes of the Project: (b) share information on the work of the Project with the global communities served by the organizations represented on the Mission Committee; (c) approve changes to the Project’s technical requirements and implementations; and (d) approve amendments to the Tazama Charter to the extent that any such amendment modifies or replaces any charitable purpose of the Project. 
+The Tazama project (the “Project”) has been established as a project of LF Charities, Inc. (“LFC”). The role of the Mission Committee of the Project is to: (a) provide the Project with advice and insight with respect to the charitable purposes of the Project: (b) share information on the work of the Project with the global communities served by the organizations represented on the Mission Committee; (c) approve changes to the Project’s technical requirements and implementations; and (d) approve amendments to the Tazama Charter to the extent that any such amendment modifies or replaces any charitable purpose of the Project.
 
 ### 1\. Appointed Voting Representatives
 
