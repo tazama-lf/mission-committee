@@ -10,7 +10,7 @@ The Tazama project (the “Project”) has been established as a project of LF C
 
 Appointed voting representatives (“Appointed Representatives”) of the Mission Committee do not have term limits and shall consist of:
 
-* One voting representative appointed by LFC.  The initial appointed representative by LFC is the Executive Director of the Tazama project.  
+* One voting representative appointed by LFC. The initial appointed representative by LFC is the Executive Director of the Tazama project.
 * One representative appointed by the Gates Foundation. The initial appointed representative by the Gates Foundation is Matt Bohan.
 
 Each of LFC and the Gates Foundation are “Appointing Organizations.” An Appointing Organization may change its Appointed Representative by notice to Tazama. 
