@@ -26,10 +26,10 @@ Term voting representatives serve for a period of one (1) year.
 
 Non-voting members may be invited or approved to participate in committee meetings and discussions. These individuals may include:
 
-* Chair of the Technical Steering Committee (TSC)  
-* Advisors  
-* Volunteers  
-* Community stakeholders  
+* Chair of the Technical Steering Committee (TSC)
+* Advisors
+* Volunteers
+* Community stakeholders
 * Observers from aligned organizations
 
 While non-voting members may contribute to discussions, they do not participate in formal decision-making or votes.
