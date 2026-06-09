@@ -36,7 +36,7 @@ While non-voting members may contribute to discussions, they do not participate 
 
 ### 4\. Voting
 
-While the Mission Committee aims to operate as a consensus-based group, if any decision requires a vote to move to resolution, the voting members of the Mission Committee will vote on a one vote per voting member basis.  A quorum for meetings requires at least fifty percent of all voting members to be present. The Mission Committee may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.  Except as provided in Section 6, decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the Mission Committee.
+While the Mission Committee aims to operate as a consensus-based group, if any decision requires a vote to move to resolution, the voting members of the Mission Committee will vote on a one vote per voting member basis. A quorum for meetings requires at least fifty percent of all voting members to be present. The Mission Committee may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting. Except as provided in Section 6, decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the Mission Committee.
 
 ### 5\. Compliance with Policies
 
